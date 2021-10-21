@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+.img1 {
+    width: 700px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.img2 {
+    border-radius: 30%;
+    width: 300px;
+}
